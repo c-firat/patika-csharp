@@ -23,8 +23,8 @@ decimal de = 1; //16 byte
 char ch = '1';    //1 byte
 string str = " "; //dynamic
 
-bool t1 = true;
-bool f1 = false;
+bool t1 = true;   //1 byte
+bool f1 = false;  //1 byte
 
 DateTime dt = DateTime.Now;
 
